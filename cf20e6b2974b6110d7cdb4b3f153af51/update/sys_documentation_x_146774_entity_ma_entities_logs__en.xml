@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Entities Logs" language="en" table="x_146774_entity_ma_entities_logs">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Entities Logs</label>
+            <language>en</language>
+            <name>x_146774_entity_ma_entities_logs</name>
+            <plural>Entities Logs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-30 16:06:20</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Entities Logs</sys_name>
+            <sys_package display_value="Entity Management" source="x_146774_entity_ma">cf20e6b2974b6110d7cdb4b3f153af51</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Entity Management">cf20e6b2974b6110d7cdb4b3f153af51</sys_scope>
+            <sys_update_name>sys_documentation_x_146774_entity_ma_entities_logs__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-30 16:06:20</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
